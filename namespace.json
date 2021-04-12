@@ -1,0 +1,10 @@
+{
+  "apiVersion": "v1",
+  "kind": "rbanka",
+  "metadata": {
+    "name": "SamplePoc",
+    "labels": {
+      "name": "SamplePoc"
+    }
+  }
+}
